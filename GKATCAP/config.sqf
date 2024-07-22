@@ -1,5 +1,5 @@
 /*
-GATZ CONVOY
+GATZ Combat Air Patrol
 Created by GATZ Game Hosting
 https://discord.gg/K86Sf9TNJG
 */
