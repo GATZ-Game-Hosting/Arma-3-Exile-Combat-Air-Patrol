@@ -26,6 +26,6 @@ for "_i" from 0 to (count allMapMarkers)-1 do
 					_GKmarkerL setMarkerAlpha 0.5;
 					_GKdot = createMarker ["GKAT Dot", _GKPos];
 					_GKdot setMarkerType "GroundSupport_CAS_EAST";
-					_GKdot setMarkerText "VGS Combat Air Patrol";
+					_GKdot setMarkerText "Combat Air Patrol";
 				};
 			};
