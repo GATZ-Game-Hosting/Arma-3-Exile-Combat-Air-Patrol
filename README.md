@@ -1,5 +1,6 @@
 # Combat Air Patrol Challenge
-Usage: change settings to your liking in config.sqf and then make the GKATCAP folder into a pbo and drop into
+// Instructions //
+Change settings to your liking in config.sqf and then make the GKATCAP folder into a pbo and drop into
 @ExileServer\addons folder of your server.
 
 Then take the CAP_Marker.sqf and place it in your mpmissions\Exile.Altis\Custom folder and add
