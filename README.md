@@ -1,5 +1,7 @@
 # Combat Air Patrol Challenge
+
 // Instructions //
+
 Change settings to your liking in config.sqf and then make the GKATCAP folder into a pbo and drop into
 @ExileServer\addons folder of your server.
 
