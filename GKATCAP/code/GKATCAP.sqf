@@ -17,10 +17,9 @@ _playerClose = [];
 	}forEach allPlayers;
 _nearplayercount = count _playerClose;
 
-_GKSpawn = [_playerClose] call GKATCAPFindSafePos;
-
 if (_nearplayercount > 0) then
 	{
+		_GKSpawn = [_playerClose] call GKATCAPFindSafePos;
 		"Spawning Jet" call GKATCAPLogging;
 		_GKJet = [_GK_PlaneClass,_GKSpawn] call GKATCAPJetSpawn;
 		
